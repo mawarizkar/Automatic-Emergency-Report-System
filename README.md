@@ -16,6 +16,9 @@ Sedangkan pada pasca-kecelakaan, AERS akan memberi notifikasi ke nomor kontak or
 7. GSM SIM800
 8. Speaker
 
+![image](https://user-images.githubusercontent.com/58925658/71626551-6eefb400-2c20-11ea-968d-2e8e01c27ae3.png)
+
+
 # *Beberapa hal yang perlu diperhatikan untuk lingkungan pengembangan pada Arduino*
 1. Pastikan Anda menggunakan library ArduinoJson versi 5.13.5
 2. Pastikan Anda menggunakan library UniversalTelegramBot versi 1.1.0
