@@ -6,6 +6,15 @@ Pada pra-kecelakaan, AERS akan memonitoring kondisi pengendara apakah sedang men
 
 Sedangkan pada pasca-kecelakaan, AERS akan memberi notifikasi ke nomor kontak orang / saudara terdekat, rumah sakit dan kepolisian. Sehingga proses penanganan korban akan lebih cepat. Dan kemungkinan kondisi korban yang akan memburuk dapat diminimalisir.
 
+# Hardware yang digunakan pada project ini yaitu:
+1. ESP32
+2. GPS Neo uBlox 6MV2
+3. Gyroscope GY-521
+4. Pulse Sensor
+5. Load Cell
+6. LoRa SX1278
+7. GSM SIM800
+8. Speaker
 
 # *Beberapa hal yang perlu diperhatikan untuk lingkungan pengembangan pada Arduino*
 1. Pastikan Anda menggunakan library ArduinoJson versi 5.13.5
@@ -13,3 +22,5 @@ Sedangkan pada pasca-kecelakaan, AERS akan memberi notifikasi ke nomor kontak or
 3. Pastikan Anda menggunakan library thinger.io versi 2.13.0
 4. Pastikan Anda menggunakan library LoRa versi 0.6.1
 5. Pastikan Anda menggunakan library EspSoftwareSerial versi 5.2.8
+
+
